@@ -1,0 +1,2 @@
+# Salt
+configuration of saltstack
